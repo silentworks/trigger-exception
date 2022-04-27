@@ -78,6 +78,8 @@ pnpm build
 
 ## Recreating the issue
 
+The issue: https://github.com/supabase/gotrue/issues/271
+
 - Go to the signup page and register a user with a username
 - Check your email and confirm the user
 - Go to the signup page again and register a user with the same username (you must use a different email address)
